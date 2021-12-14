@@ -16,7 +16,7 @@ NKRO_ENABLE = yes           # Enable N-Key Rollover
 BACKLIGHT_ENABLE = no          # Enable keyboard backlight functionality
 RGBLIGHT_ENABLE = no           # Enable keyboard RGB underglow
 AUDIO_ENABLE = no              # Audio output
-RGB_MATRIX_ENABLE = yes        # Use RGB matrix
+RGB_MATRIX_ENABLE = no        # Use RGB matrix
 RGB_MATRIX_DRIVER = IS31FL3731
 
 LAYOUTS = 65_ansi
